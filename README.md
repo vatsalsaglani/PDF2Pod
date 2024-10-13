@@ -7,9 +7,8 @@ The PDF to Podcast Generator is an innovative tool that transforms academic pape
 Key features:
 - Converts PDF documents into podcast-style audio files
 - Utilizes OpenAI's GPT models for dialogue generation
-- Employs ElevenLabs' text-to-speech API for realistic voice generation
+- Uses ElevenLabs' text-to-speech API for realistic voice generation
 - Allows user instructions to customize the podcast content
-- Provides a user-friendly Gradio interface for easy interaction
 
 ## Setup and Installation
 
