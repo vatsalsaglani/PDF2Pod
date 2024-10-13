@@ -1,0 +1,8 @@
+.env
+*.wav
+*.ipynb
+__pycache__/
+.DS_Store
+audio_clips/
+audio_clips_1/
+output_*/

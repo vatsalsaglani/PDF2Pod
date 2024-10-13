@@ -1,0 +1,10 @@
+httpx==0.25.0
+pydub==0.25.1
+tqdm==4.66.1
+tiktoken==0.5.2
+openai==1.6.1
+gradio==5.0.2
+gradio_client==1.4.0
+pypdf2==3.0.1
+pydantic==2.4.2
+python-dotenv==1.0.0
