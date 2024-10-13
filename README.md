@@ -63,5 +63,13 @@ Key features:
 
 Here is an example of using the PDF to Podcast Generator.
 
+### Input
+
+https://github.com/user-attachments/assets/1fd93fe5-3f3e-47bf-bfe4-8764e2b96114
+
+### Output
+
+https://github.com/user-attachments/assets/3c6854c4-f44e-4daa-a643-053f66fe65db
+
 
 
